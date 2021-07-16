@@ -1,0 +1,134 @@
+/*
+Theme Name: Custom WC Bootstrap Theme
+Theme URI: 
+Description: The bootstrap components in this theme can be reused.
+Version: 1.0.1
+Author: Ty
+Author URI: 
+*/
+
+@font-face {
+    font-family: "DaytonaPro-Regular";
+    src: url("./fonts/DaytonaPro-Regular.ttf") format("truetype");
+    font-display: swap;
+  
+    }
+
+    h1{
+      font-family: "DaytonaPro-Regular", sans-serif!important;
+    }
+    h2{
+      font-family: 'DaytonaPro-Regular', Arial, Helvetica, sans-serif!important;
+    }
+
+    p{
+      font-family: "DaytonaPro-Regular", sans-serif!important;
+    }
+
+  .carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+
+.page-footer {
+    background-color: #114A7C; }
+  
+  .blue-gradient {
+    background: -webkit-linear-gradient(50deg, #f5595f, #c1272d) !important;
+    background: -o-linear-gradient(50deg, #f5595f, #c1272d) !important;
+    background: linear-gradient(40deg, #f5595f, #c1272d) !important; }
+  
+  .card-comments img {
+    width: 4rem; }
+  
+  .card-intro {
+    margin-top: 67px; }
+    .card-intro .card-body {
+      -webkit-border-radius: 0 !important;
+      border-radius: 0 !important; }
+  
+  .navbar-brand img {
+    height: 20px; }
+  
+  .pagination .page-item.active .page-link {
+    background-color: #f5595f; }
+  
+  .card-avatar img {
+    width: 100px; }
+
+    .table-products img {
+        max-width: 200px;
+        max-height: 200px; }
+      
+      .table-products tr th, .table-products tr td {
+        vertical-align: middle; }
+      
+      ins {
+            text-decoration: none;
+      }
+      
+      .w-100px{
+        width: 100px;
+      }
+
+     #custom-float-left{
+       float:left!important;
+     }
+     #custom-float-right{
+      float:right!important;
+     } 
+
+     .shop_table{
+       border:0px!important;
+     }
+
+     .page-numbers{
+display: inline-flex;
+    list-style: none;
+    margin: auto;
+    padding-bottom: 15px;
+     }
+
+     .page-numbers li {
+    margin-right: 5px;
+}
+
+.page-numbers .current {
+    background-color: #33b5e5 !important;
+    color: #fff;
+    padding: 5px 12px 5px 12px;
+        border-radius: 0.125rem;
+}
+
+.page-numbers a {
+    padding: 5px 10px 5px 10px;
+    color: #33b5e5 !important;
+        border-radius: 0.125rem;
+}
+
+
+
+/** MOBILE **/
+
+@media only screen and (max-width: 767px){
+
+  section {
+      padding: 0px 0;
+  }
+nav.woocommerce-MyAccount-navigation ul {
+
+    max-width: 100%!important;
+  
+}
+
+nav.woocommerce-MyAccount-navigation ul li.is-active:after{
+  display:none!important;
+}
+
+nav.woocommerce-MyAccount-navigation ul li:not(.is-active):hover:after { 
+  display:none!important;
+}
+
+  }
+
+  /** MOBILE  END**/

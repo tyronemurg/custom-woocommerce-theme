@@ -24,10 +24,6 @@ require_once('components/navbar.inc.php');
                     <div class="col-md-6">
 
                         <h1 class="font-weight-bold mb-4">Social Aggregator POC</h1>
-                       <!-- <p class="lead mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti ad impedit corporis ratione facere?
-                            Cupiditate unde aliquid reiciendis animi, quas inventore, praesentium neque voluptatem, iusto
-                            perferendis placeat similique dolor eum?
-                        </p>-->
 
                     </div>
                     <!--Grid column-->
@@ -45,7 +41,7 @@ require_once('components/navbar.inc.php');
 
     <!--Main layout-->
     <main>
-    	<ul class="juicer-feed" data-feed-id="demo-aggregator"><h1 class="referral"><a href="">Powered by Juicer.io</a></h1></ul>
+    	<ul class="juicer-feed" data-feed-id="demo-aggregator"><h1 class="referral"><a href=""></a></h1></ul>
       </main>
 
     

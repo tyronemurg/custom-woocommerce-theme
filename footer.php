@@ -53,7 +53,7 @@
 <!--Copyright-->
 <div class="footer-copyright py-3">
     © 2021 Copyright:
-    <a href="" target="_blank"> Flint Components </a>
+    <a href="" target="_blank"> WC Components </a>
 </div>
 <!--/.Copyright-->
 <?php wp_footer(); ?>

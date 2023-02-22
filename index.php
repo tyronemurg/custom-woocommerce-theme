@@ -18,10 +18,7 @@ require_once('components/navbar.inc.php');
                     <div class="col-md-6">
 
                         <h1 class="font-weight-bold mb-4"><?php echo get_the_title() ?></h1>
-                        <!--<p class="lead mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti ad impedit corporis ratione facere?
-                            Cupiditate unde aliquid reiciendis animi, quas inventore, praesentium neque voluptatem, iusto
-                            perferendis placeat similique dolor eum?
-                        </p>-->
+           
 
                     </div>
                   

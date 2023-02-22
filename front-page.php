@@ -16,13 +16,13 @@ require_once('components/navbar.inc.php');
   <!-- The slideshow -->
   <div class="carousel-inner" style="height: 100%;">
     <div class="carousel-item active">
-      <img src="wp-content/themes/flintcomponents/img/brussels-804053.webp" alt="Los Angeles" width="1100" height="500">
+      <img src="https://placehold.co/1800x1200" alt="Los Angeles" width="1100" height="500">
     </div>
     <div class="carousel-item">
-      <img src="wp-content/themes/flintcomponents/img/brussels-804053.webp" alt="Chicago" width="1100" height="500">
+      <img src="https://placehold.co/1800x1200" alt="Chicago" width="1100" height="500">
     </div>
     <div class="carousel-item">
-      <img src="wp-content/themes/flintcomponents/img/brussels-804053.webp" alt="New York" width="1100" height="500">
+      <img src="https://placehold.co/1800x1200" alt="New York" width="1100" height="500">
     </div>
   </div>
   

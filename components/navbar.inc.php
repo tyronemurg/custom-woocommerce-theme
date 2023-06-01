@@ -4,7 +4,7 @@
 
         <!-- Brand -->
         <a class="navbar-brand pt-0 waves-effect" href="<?php echo site_url('/'); ?>">
-         WC Components
+         Custon WC Components
            <!-- <img src="" alt="Site logo">-->
         </a>
 
@@ -53,7 +53,7 @@
                 <li class="nav-item">
                     <a href="<?php echo site_url('/my-account'); ?>" class="nav-link border border-light rounded waves-effect"
                         >
-                        <!--<i class="fa fa-login mr-2"></i>-->Login/Register
+                       Login/Register
                     </a>
                 </li>
             </ul>

@@ -4,7 +4,7 @@
 
         <!-- Brand -->
         <a class="navbar-brand pt-0 waves-effect" href="<?php echo site_url('/'); ?>">
-        Flint Components
+         WC Components
            <!-- <img src="" alt="Site logo">-->
         </a>
 

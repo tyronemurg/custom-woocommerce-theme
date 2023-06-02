@@ -2,14 +2,14 @@
 <footer class="page-footer text-center font-small mt-4 wow fadeIn">
 
 <!--Call to action-->
-<!-- <div class="pt-4">
+ <div class="pt-4">
     <a class="btn btn-outline-white" href="" target="_blank" role="button">Download
         <i class="fa fa-download ml-2"></i>
     </a>
-    <a class="btn btn-outline-white" href=" target="_blank" role="button">Start free tutorial
+    <a class="btn btn-outline-white" href="" target="_blank" role="button">Start free tutorial
         <i class="fa fa-graduation-cap ml-2"></i>
     </a>
-</div> -->
+</div> 
 <!--/.Call to action-->
 
 <hr class="my-4">
@@ -52,8 +52,8 @@
 
 <!--Copyright-->
 <div class="footer-copyright py-3">
-    © 2021 Copyright:
-    <a href="" target="_blank"> WC Components </a>
+    © 2023 Copyright:
+    <a href="" target="_blank">CUSTOM WC </a>
 </div>
 <!--/.Copyright-->
 <?php wp_footer(); ?>

@@ -16,13 +16,13 @@ require_once('components/navbar.inc.php');
   <!-- The slideshow -->
   <div class="carousel-inner" style="height: 100%;">
     <div class="carousel-item active">
-      <img src="https://placehold.co/1800x1200" alt="Los Angeles" width="1100" height="500">
+      <img src="https://placehold.co/1600x1200" alt="Los Angeles" width="1100" height="500">
     </div>
     <div class="carousel-item">
-      <img src="https://placehold.co/1800x1200" alt="Chicago" width="1100" height="500">
+      <img src="https://placehold.co/1600x1200" alt="Chicago" width="1100" height="500">
     </div>
     <div class="carousel-item">
-      <img src="https://placehold.co/1800x1200" alt="New York" width="1100" height="500">
+      <img src="https://placehold.co/1600x1200" alt="New York" width="1100" height="500">
     </div>
   </div>
   
@@ -74,7 +74,7 @@ require_once('components/navbar.inc.php');
                                 </p></b>
 
                                 <a href="<?php echo get_permalink() ?>"> <h2 class="card-title color-off-black  mt-4" style="font-size:30px;text-transform: uppercase;"><strong><?php the_title(); ?></strong></h2></a>
-                                <p class="text-dt-brown  mt-4" style="font-size:15px;">
+                                <p class="  mt-4" style="font-size:15px;">
                                   <?php echo get_the_excerpt(); ?>
                                 </p>
                                 <p class="date-blog  mt-4 mb-4">
@@ -122,7 +122,7 @@ require_once('components/navbar.inc.php');
                                 </p></b>
 
                                 <a href="<?php echo get_permalink() ?>"> <h2 class="card-title color-off-black  mt-4" style="font-size:30px;text-transform: uppercase;"><strong><?php the_title(); ?></strong></h2></a>
-                                <p class="text-dt-brown  mt-4" style="font-size:15px;">
+                                <p class="  mt-4" style="font-size:15px;">
                                   <?php echo get_the_excerpt(); ?>
                                 </p>
                                 <p class="date-blog  mt-4 mb-4">

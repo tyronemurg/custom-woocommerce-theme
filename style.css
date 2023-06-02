@@ -34,9 +34,9 @@ Author URI:
     background-color: #114A7C; }
   
   .blue-gradient {
-    background: -webkit-linear-gradient(50deg, #f5595f, #c1272d) !important;
-    background: -o-linear-gradient(50deg, #f5595f, #c1272d) !important;
-    background: linear-gradient(40deg, #f5595f, #c1272d) !important; }
+    background: -webkit-linear-gradient(50deg, #000, #000) !important;
+    background: -o-linear-gradient(50deg, #000, #000) !important;
+    background: linear-gradient(40deg, #000, #000) !important; }
   
   .card-comments img {
     width: 4rem; }
@@ -51,7 +51,7 @@ Author URI:
     height: 20px; }
   
   .pagination .page-item.active .page-link {
-    background-color: #f5595f; }
+    background-color: #000; }
   
   .card-avatar img {
     width: 100px; }
@@ -94,7 +94,7 @@ display: inline-flex;
 }
 
 .page-numbers .current {
-    background-color: #33b5e5 !important;
+    background-color: #000 !important;
     color: #fff;
     padding: 5px 12px 5px 12px;
         border-radius: 0.125rem;
@@ -102,7 +102,7 @@ display: inline-flex;
 
 .page-numbers a {
     padding: 5px 10px 5px 10px;
-    color: #33b5e5 !important;
+    color: #000 !important;
         border-radius: 0.125rem;
 }
 
